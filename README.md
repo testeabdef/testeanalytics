@@ -1,5 +1,5 @@
 # testeanalytics
 
-[![Analytics](https://ga-beacon.appspot.com/UA-46899860-1/chromeskel_a/readme?pixel)](https://github.com/igrigorik/ga-beacon)
+[![Analytics](https://ga-beacon.appspot.com/UA-40725207-9/test/test)](https://github.com/igrigorik/ga-beacon)
 
 pedro
